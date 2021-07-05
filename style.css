@@ -2,7 +2,6 @@ h1{
     color:blueviolet;
 }
 
-p
 p{
     color:rgb(247, 250, 244);
     font-weight: bolder;
@@ -15,16 +14,14 @@ p{
     
 }
 .ID{
+    color: tomato;
     text-align: end;
     font-size:xx-large
 }
 .unit{
     border-style:ridge;
     background-color:rgb(124, 123, 187);
-    box-shadow:  0 8px 8px 0 rgba(88, 7, 7, 0.2), 0 6px 36px 0 rgba(0, 0, 0, 0.19);;
-}
-.footer{
-    color:violet;
+    box-shadow:  0 8px 8px 0 rgba(88, 7, 7, 0.2), 0 6px 36px 0 rgba(0, 0, 0, 0.19);
 }
     
 body{
